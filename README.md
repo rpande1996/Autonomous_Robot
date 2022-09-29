@@ -115,11 +115,11 @@ Paths for the respective runs:
 
 Path 1:
 
-![Path1](media/output/path1.png)
+![Path1](media/output/path2.png)
 
 Path 2:
 
-![Path2](media/output/path2.png)
+![Path2](media/output/path1.png)
 
 ## Build
 
